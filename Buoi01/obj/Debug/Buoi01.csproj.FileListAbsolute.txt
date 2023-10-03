@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\bin\Debug\Buoi01.exe.config
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\bin\Debug\Buoi01.exe
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\bin\Debug\Buoi01.pdb
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\obj\Debug\Buoi01.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\obj\Debug\Buoi01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\obj\Debug\Buoi01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\obj\Debug\Buoi01.exe
+C:\Users\Admin\OneDrive\Documents\Deadline\CTDL&GT\Buoi01\Buoi01\obj\Debug\Buoi01.pdb
